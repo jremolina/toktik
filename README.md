@@ -1,16 +1,15 @@
 # toktik
 
-A new Flutter project.
+# Sobre Assets
 
-## Getting Started
+los archivos por su tamaño no fueron incluidos en el repositorio
+estos se pueden descargar de la sigte ubicacion
 
-This project is a starting point for a Flutter application.
+https://1024terabox.com/s/1ArHWlNB5LLL3slIKQDfxCg
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+en el archivo pubspec.yaml en la seccion de assets se indica la ruta dentro del proyecto donde deben ser copiados
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+saludos.
+
+ 
