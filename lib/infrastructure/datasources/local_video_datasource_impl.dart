@@ -1,6 +1,6 @@
 import 'package:toktik/domain/datasources/video_post_datasource.dart';
 import 'package:toktik/domain/entities/videos_post.dart';
-import 'package:toktik/infrastrucure/models/local_video_model.dart';
+import 'package:toktik/infrastructure/models/local_video_model.dart';
 import 'package:toktik/shared/data/local_video_post.dart';
 
 
