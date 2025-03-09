@@ -1,5 +1,7 @@
 # toktik
 
+version de flutter utilizada para el ejercicio 3.19
+
 # Sobre Assets
 
 los archivos por su tamaño no fueron incluidos en el repositorio
@@ -13,6 +15,8 @@ https://www.pexels.com/es-es/buscar/videos/vertical/
 
 
 en el archivo pubspec.yaml en la seccion de assets se indica la ruta dentro del proyecto donde deben ser copiados
+
+
 
 saludos.
 
